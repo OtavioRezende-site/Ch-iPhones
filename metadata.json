@@ -1,0 +1,8 @@
+{
+  "name": "CH IPHONES - Elite Apple Store",
+  "description": "Premium landing page for CH IPHONES, specializing in iPhones and Apple Ecosystem with high-ticket design, interactive Three.js backgrounds, and smooth GSAP animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
